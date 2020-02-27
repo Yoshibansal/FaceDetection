@@ -7,6 +7,8 @@ Step 2:- Download the "haarcascade_frontalface_alt.xml" and "j1.jpg" files.
 
 Step 3:- Inside colab go to Files and Upload both the files.
 
+![](ScreenShot.png)
+
 Step 4:- Than run the code cell, one by one.(shortcut(shift + enter)).
 
 Step 5:- You can upload the picture that you want. If yes follow the steps below:-
